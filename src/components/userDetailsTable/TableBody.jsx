@@ -38,7 +38,7 @@ const TableBody = () => {
         })
       ) : (
         <tr>
-          <td colSpan={9} style={{ textAlign: "center" }}>
+          <td colSpan={10} style={{ textAlign: "center" }}>
             No Data Found
           </td>
         </tr>
